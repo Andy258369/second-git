@@ -1,0 +1,13 @@
+.login-form {
+  max-width: 300px;
+}
+.login-form-forgot {
+  float: right;
+}
+.login-form-button {
+  width: 100%;
+}
+.avatar-uploader > .ant-upload {
+  width: 128px;
+  height: 128px;
+}
