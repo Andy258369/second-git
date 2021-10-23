@@ -10,7 +10,7 @@ class Header extends Component {
     }
     componentWillMount(){
         this.setState({
-            userName:'Andy'
+            userName:'Andy123'
         })
         setInterval(()=>{
             let sysTime=Utils.formateDate(new Date().getTime());
